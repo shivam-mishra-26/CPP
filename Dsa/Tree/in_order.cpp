@@ -48,7 +48,7 @@ public:
         if (root == NULL)
         {
             root = n;
-            cout << "Value inserted as root node " << endl;
+            cout << "Value inserted as root node in tree " << endl;
         }
         else
         {
